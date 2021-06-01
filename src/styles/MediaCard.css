@@ -1,0 +1,30 @@
+.App {
+  width: 400px;
+  background-color: rgb(236, 229, 219);
+  border-radius: 3 px solid white;
+  padding-left: 20px;
+}
+
+.hero {
+  padding-top: 30px;
+  display: flex;
+  flex-direction: row;
+}
+
+.image {
+  width: 150px;
+}
+
+.fa-heart {
+  height: 20px;
+  width: 50px;
+}
+.i {
+  height: 100px;
+  width: 100px;
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+  color: black;
+}
